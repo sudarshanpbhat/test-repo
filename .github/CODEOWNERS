@@ -2,3 +2,4 @@
 /foo/* someone
 /bar/* noone
 /foobar/* someone noone
+/foo/* @some-org/some-team
