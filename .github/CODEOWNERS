@@ -1,5 +1,4 @@
 * @some-org/everythingowner
-/foo/* @some-org/foo-team
-/bar/* @some-org/bar-team
-/foobar/* @some-org/foo-team @some-org/bar-team
-/foo/* @some-org/bar-team
+/foo/ @some-org/foo-team
+/bar/ @some-org/bar-team
+/foobar/ @some-org/foo-team @some-org/bar-team
