@@ -1,4 +1,3 @@
-* @some-org/everythingowner
-/foo/ @some-org/foo-team
-/bar/ @some-org/bar-team
-/foobar/ @some-org/foo-team @some-org/bar-team
+* @walmart-android/core
+foo/ @foo/foo @foouser
+bar/ @bar/bar bar@bar.net
